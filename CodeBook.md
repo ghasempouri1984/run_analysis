@@ -26,8 +26,8 @@ Write the tidy data set and create a second file
 
 # Tidy data set:
 
-Replaced -mean with Mean
-Replaced -std with Std
-Removed characters -()
-Replaced BodyBody with Body
+# Replaced -mean with Mean
+# Replaced -std with Std
+# Removed characters -()
+# Replaced BodyBody with Body
 
