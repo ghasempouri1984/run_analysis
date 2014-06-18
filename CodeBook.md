@@ -33,9 +33,9 @@ Write the tidy data set and create a second file
 
 
 
-#Variables in raw and tidy data set
-#first is Raw data set
-#second is Tidy data set
+#Variables in raw and tidy data set:
+first is Raw data set
+second is Tidy data set
 
 subject
 subject
