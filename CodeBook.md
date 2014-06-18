@@ -1,4 +1,4 @@
-# run_analysis steps overview
+# run_analysis scripts overview
 ============
 set working directory UCI HAR Dataset
 
